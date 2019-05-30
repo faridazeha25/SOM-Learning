@@ -1,0 +1,6 @@
+python detect_shapes.py --image image_path
+
+example: 
+python detect_shapes.py --image ubhara_new.png
+python detect_shapes.py --image deteksi.png
+python detect_shapes.py --image shapes.png
